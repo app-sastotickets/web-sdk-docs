@@ -1,0 +1,11 @@
+extra_css:
+  - colors.css
+theme:
+  name: material
+  palette:
+    primary: custom
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
+site_name: Sasto Ticket Web SDK
